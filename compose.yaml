@@ -1,0 +1,13 @@
+services:
+  per-ml:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    volumes:
+      - .:/workspace
+
+    working_dir: /workspace
+
+    stdin_open: true
+    tty: true
