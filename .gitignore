@@ -45,3 +45,4 @@ venv/
 
 # environemnt
 .env
+/data/temporal_h10/
