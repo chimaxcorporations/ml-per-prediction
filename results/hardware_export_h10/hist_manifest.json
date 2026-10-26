@@ -1,0 +1,793 @@
+{
+  "trees": [
+    {
+      "tree_id": 0,
+      "offset_bytes": 0,
+      "node_count": 61
+    },
+    {
+      "tree_id": 1,
+      "offset_bytes": 1952,
+      "node_count": 61
+    },
+    {
+      "tree_id": 2,
+      "offset_bytes": 3904,
+      "node_count": 61
+    },
+    {
+      "tree_id": 3,
+      "offset_bytes": 5856,
+      "node_count": 61
+    },
+    {
+      "tree_id": 4,
+      "offset_bytes": 7808,
+      "node_count": 61
+    },
+    {
+      "tree_id": 5,
+      "offset_bytes": 9760,
+      "node_count": 61
+    },
+    {
+      "tree_id": 6,
+      "offset_bytes": 11712,
+      "node_count": 61
+    },
+    {
+      "tree_id": 7,
+      "offset_bytes": 13664,
+      "node_count": 61
+    },
+    {
+      "tree_id": 8,
+      "offset_bytes": 15616,
+      "node_count": 61
+    },
+    {
+      "tree_id": 9,
+      "offset_bytes": 17568,
+      "node_count": 61
+    },
+    {
+      "tree_id": 10,
+      "offset_bytes": 19520,
+      "node_count": 61
+    },
+    {
+      "tree_id": 11,
+      "offset_bytes": 21472,
+      "node_count": 61
+    },
+    {
+      "tree_id": 12,
+      "offset_bytes": 23424,
+      "node_count": 61
+    },
+    {
+      "tree_id": 13,
+      "offset_bytes": 25376,
+      "node_count": 61
+    },
+    {
+      "tree_id": 14,
+      "offset_bytes": 27328,
+      "node_count": 61
+    },
+    {
+      "tree_id": 15,
+      "offset_bytes": 29280,
+      "node_count": 61
+    },
+    {
+      "tree_id": 16,
+      "offset_bytes": 31232,
+      "node_count": 61
+    },
+    {
+      "tree_id": 17,
+      "offset_bytes": 33184,
+      "node_count": 61
+    },
+    {
+      "tree_id": 18,
+      "offset_bytes": 35136,
+      "node_count": 61
+    },
+    {
+      "tree_id": 19,
+      "offset_bytes": 37088,
+      "node_count": 61
+    },
+    {
+      "tree_id": 20,
+      "offset_bytes": 39040,
+      "node_count": 61
+    },
+    {
+      "tree_id": 21,
+      "offset_bytes": 40992,
+      "node_count": 61
+    },
+    {
+      "tree_id": 22,
+      "offset_bytes": 42944,
+      "node_count": 61
+    },
+    {
+      "tree_id": 23,
+      "offset_bytes": 44896,
+      "node_count": 61
+    },
+    {
+      "tree_id": 24,
+      "offset_bytes": 46848,
+      "node_count": 61
+    },
+    {
+      "tree_id": 25,
+      "offset_bytes": 48800,
+      "node_count": 61
+    },
+    {
+      "tree_id": 26,
+      "offset_bytes": 50752,
+      "node_count": 61
+    },
+    {
+      "tree_id": 27,
+      "offset_bytes": 52704,
+      "node_count": 61
+    },
+    {
+      "tree_id": 28,
+      "offset_bytes": 54656,
+      "node_count": 61
+    },
+    {
+      "tree_id": 29,
+      "offset_bytes": 56608,
+      "node_count": 61
+    },
+    {
+      "tree_id": 30,
+      "offset_bytes": 58560,
+      "node_count": 61
+    },
+    {
+      "tree_id": 31,
+      "offset_bytes": 60512,
+      "node_count": 61
+    },
+    {
+      "tree_id": 32,
+      "offset_bytes": 62464,
+      "node_count": 61
+    },
+    {
+      "tree_id": 33,
+      "offset_bytes": 64416,
+      "node_count": 61
+    },
+    {
+      "tree_id": 34,
+      "offset_bytes": 66368,
+      "node_count": 61
+    },
+    {
+      "tree_id": 35,
+      "offset_bytes": 68320,
+      "node_count": 61
+    },
+    {
+      "tree_id": 36,
+      "offset_bytes": 70272,
+      "node_count": 61
+    },
+    {
+      "tree_id": 37,
+      "offset_bytes": 72224,
+      "node_count": 61
+    },
+    {
+      "tree_id": 38,
+      "offset_bytes": 74176,
+      "node_count": 61
+    },
+    {
+      "tree_id": 39,
+      "offset_bytes": 76128,
+      "node_count": 61
+    },
+    {
+      "tree_id": 40,
+      "offset_bytes": 78080,
+      "node_count": 61
+    },
+    {
+      "tree_id": 41,
+      "offset_bytes": 80032,
+      "node_count": 61
+    },
+    {
+      "tree_id": 42,
+      "offset_bytes": 81984,
+      "node_count": 61
+    },
+    {
+      "tree_id": 43,
+      "offset_bytes": 83936,
+      "node_count": 61
+    },
+    {
+      "tree_id": 44,
+      "offset_bytes": 85888,
+      "node_count": 61
+    },
+    {
+      "tree_id": 45,
+      "offset_bytes": 87840,
+      "node_count": 61
+    },
+    {
+      "tree_id": 46,
+      "offset_bytes": 89792,
+      "node_count": 61
+    },
+    {
+      "tree_id": 47,
+      "offset_bytes": 91744,
+      "node_count": 61
+    },
+    {
+      "tree_id": 48,
+      "offset_bytes": 93696,
+      "node_count": 61
+    },
+    {
+      "tree_id": 49,
+      "offset_bytes": 95648,
+      "node_count": 61
+    },
+    {
+      "tree_id": 50,
+      "offset_bytes": 97600,
+      "node_count": 61
+    },
+    {
+      "tree_id": 51,
+      "offset_bytes": 99552,
+      "node_count": 61
+    },
+    {
+      "tree_id": 52,
+      "offset_bytes": 101504,
+      "node_count": 61
+    },
+    {
+      "tree_id": 53,
+      "offset_bytes": 103456,
+      "node_count": 61
+    },
+    {
+      "tree_id": 54,
+      "offset_bytes": 105408,
+      "node_count": 61
+    },
+    {
+      "tree_id": 55,
+      "offset_bytes": 107360,
+      "node_count": 61
+    },
+    {
+      "tree_id": 56,
+      "offset_bytes": 109312,
+      "node_count": 61
+    },
+    {
+      "tree_id": 57,
+      "offset_bytes": 111264,
+      "node_count": 61
+    },
+    {
+      "tree_id": 58,
+      "offset_bytes": 113216,
+      "node_count": 61
+    },
+    {
+      "tree_id": 59,
+      "offset_bytes": 115168,
+      "node_count": 61
+    },
+    {
+      "tree_id": 60,
+      "offset_bytes": 117120,
+      "node_count": 61
+    },
+    {
+      "tree_id": 61,
+      "offset_bytes": 119072,
+      "node_count": 61
+    },
+    {
+      "tree_id": 62,
+      "offset_bytes": 121024,
+      "node_count": 61
+    },
+    {
+      "tree_id": 63,
+      "offset_bytes": 122976,
+      "node_count": 61
+    },
+    {
+      "tree_id": 64,
+      "offset_bytes": 124928,
+      "node_count": 61
+    },
+    {
+      "tree_id": 65,
+      "offset_bytes": 126880,
+      "node_count": 61
+    },
+    {
+      "tree_id": 66,
+      "offset_bytes": 128832,
+      "node_count": 61
+    },
+    {
+      "tree_id": 67,
+      "offset_bytes": 130784,
+      "node_count": 61
+    },
+    {
+      "tree_id": 68,
+      "offset_bytes": 132736,
+      "node_count": 61
+    },
+    {
+      "tree_id": 69,
+      "offset_bytes": 134688,
+      "node_count": 61
+    },
+    {
+      "tree_id": 70,
+      "offset_bytes": 136640,
+      "node_count": 61
+    },
+    {
+      "tree_id": 71,
+      "offset_bytes": 138592,
+      "node_count": 61
+    },
+    {
+      "tree_id": 72,
+      "offset_bytes": 140544,
+      "node_count": 61
+    },
+    {
+      "tree_id": 73,
+      "offset_bytes": 142496,
+      "node_count": 61
+    },
+    {
+      "tree_id": 74,
+      "offset_bytes": 144448,
+      "node_count": 61
+    },
+    {
+      "tree_id": 75,
+      "offset_bytes": 146400,
+      "node_count": 61
+    },
+    {
+      "tree_id": 76,
+      "offset_bytes": 148352,
+      "node_count": 61
+    },
+    {
+      "tree_id": 77,
+      "offset_bytes": 150304,
+      "node_count": 61
+    },
+    {
+      "tree_id": 78,
+      "offset_bytes": 152256,
+      "node_count": 61
+    },
+    {
+      "tree_id": 79,
+      "offset_bytes": 154208,
+      "node_count": 61
+    },
+    {
+      "tree_id": 80,
+      "offset_bytes": 156160,
+      "node_count": 61
+    },
+    {
+      "tree_id": 81,
+      "offset_bytes": 158112,
+      "node_count": 61
+    },
+    {
+      "tree_id": 82,
+      "offset_bytes": 160064,
+      "node_count": 61
+    },
+    {
+      "tree_id": 83,
+      "offset_bytes": 162016,
+      "node_count": 61
+    },
+    {
+      "tree_id": 84,
+      "offset_bytes": 163968,
+      "node_count": 61
+    },
+    {
+      "tree_id": 85,
+      "offset_bytes": 165920,
+      "node_count": 61
+    },
+    {
+      "tree_id": 86,
+      "offset_bytes": 167872,
+      "node_count": 61
+    },
+    {
+      "tree_id": 87,
+      "offset_bytes": 169824,
+      "node_count": 61
+    },
+    {
+      "tree_id": 88,
+      "offset_bytes": 171776,
+      "node_count": 61
+    },
+    {
+      "tree_id": 89,
+      "offset_bytes": 173728,
+      "node_count": 61
+    },
+    {
+      "tree_id": 90,
+      "offset_bytes": 175680,
+      "node_count": 61
+    },
+    {
+      "tree_id": 91,
+      "offset_bytes": 177632,
+      "node_count": 61
+    },
+    {
+      "tree_id": 92,
+      "offset_bytes": 179584,
+      "node_count": 61
+    },
+    {
+      "tree_id": 93,
+      "offset_bytes": 181536,
+      "node_count": 61
+    },
+    {
+      "tree_id": 94,
+      "offset_bytes": 183488,
+      "node_count": 61
+    },
+    {
+      "tree_id": 95,
+      "offset_bytes": 185440,
+      "node_count": 61
+    },
+    {
+      "tree_id": 96,
+      "offset_bytes": 187392,
+      "node_count": 61
+    },
+    {
+      "tree_id": 97,
+      "offset_bytes": 189344,
+      "node_count": 61
+    },
+    {
+      "tree_id": 98,
+      "offset_bytes": 191296,
+      "node_count": 61
+    },
+    {
+      "tree_id": 99,
+      "offset_bytes": 193248,
+      "node_count": 61
+    },
+    {
+      "tree_id": 100,
+      "offset_bytes": 195200,
+      "node_count": 61
+    },
+    {
+      "tree_id": 101,
+      "offset_bytes": 197152,
+      "node_count": 61
+    },
+    {
+      "tree_id": 102,
+      "offset_bytes": 199104,
+      "node_count": 61
+    },
+    {
+      "tree_id": 103,
+      "offset_bytes": 201056,
+      "node_count": 61
+    },
+    {
+      "tree_id": 104,
+      "offset_bytes": 203008,
+      "node_count": 61
+    },
+    {
+      "tree_id": 105,
+      "offset_bytes": 204960,
+      "node_count": 61
+    },
+    {
+      "tree_id": 106,
+      "offset_bytes": 206912,
+      "node_count": 61
+    },
+    {
+      "tree_id": 107,
+      "offset_bytes": 208864,
+      "node_count": 61
+    },
+    {
+      "tree_id": 108,
+      "offset_bytes": 210816,
+      "node_count": 61
+    },
+    {
+      "tree_id": 109,
+      "offset_bytes": 212768,
+      "node_count": 61
+    },
+    {
+      "tree_id": 110,
+      "offset_bytes": 214720,
+      "node_count": 61
+    },
+    {
+      "tree_id": 111,
+      "offset_bytes": 216672,
+      "node_count": 61
+    },
+    {
+      "tree_id": 112,
+      "offset_bytes": 218624,
+      "node_count": 61
+    },
+    {
+      "tree_id": 113,
+      "offset_bytes": 220576,
+      "node_count": 61
+    },
+    {
+      "tree_id": 114,
+      "offset_bytes": 222528,
+      "node_count": 61
+    },
+    {
+      "tree_id": 115,
+      "offset_bytes": 224480,
+      "node_count": 61
+    },
+    {
+      "tree_id": 116,
+      "offset_bytes": 226432,
+      "node_count": 61
+    },
+    {
+      "tree_id": 117,
+      "offset_bytes": 228384,
+      "node_count": 61
+    },
+    {
+      "tree_id": 118,
+      "offset_bytes": 230336,
+      "node_count": 61
+    },
+    {
+      "tree_id": 119,
+      "offset_bytes": 232288,
+      "node_count": 61
+    },
+    {
+      "tree_id": 120,
+      "offset_bytes": 234240,
+      "node_count": 61
+    },
+    {
+      "tree_id": 121,
+      "offset_bytes": 236192,
+      "node_count": 61
+    },
+    {
+      "tree_id": 122,
+      "offset_bytes": 238144,
+      "node_count": 61
+    },
+    {
+      "tree_id": 123,
+      "offset_bytes": 240096,
+      "node_count": 61
+    },
+    {
+      "tree_id": 124,
+      "offset_bytes": 242048,
+      "node_count": 61
+    },
+    {
+      "tree_id": 125,
+      "offset_bytes": 244000,
+      "node_count": 61
+    },
+    {
+      "tree_id": 126,
+      "offset_bytes": 245952,
+      "node_count": 61
+    },
+    {
+      "tree_id": 127,
+      "offset_bytes": 247904,
+      "node_count": 61
+    },
+    {
+      "tree_id": 128,
+      "offset_bytes": 249856,
+      "node_count": 61
+    },
+    {
+      "tree_id": 129,
+      "offset_bytes": 251808,
+      "node_count": 61
+    },
+    {
+      "tree_id": 130,
+      "offset_bytes": 253760,
+      "node_count": 61
+    },
+    {
+      "tree_id": 131,
+      "offset_bytes": 255712,
+      "node_count": 61
+    },
+    {
+      "tree_id": 132,
+      "offset_bytes": 257664,
+      "node_count": 61
+    },
+    {
+      "tree_id": 133,
+      "offset_bytes": 259616,
+      "node_count": 61
+    },
+    {
+      "tree_id": 134,
+      "offset_bytes": 261568,
+      "node_count": 61
+    },
+    {
+      "tree_id": 135,
+      "offset_bytes": 263520,
+      "node_count": 61
+    },
+    {
+      "tree_id": 136,
+      "offset_bytes": 265472,
+      "node_count": 61
+    },
+    {
+      "tree_id": 137,
+      "offset_bytes": 267424,
+      "node_count": 61
+    },
+    {
+      "tree_id": 138,
+      "offset_bytes": 269376,
+      "node_count": 61
+    },
+    {
+      "tree_id": 139,
+      "offset_bytes": 271328,
+      "node_count": 61
+    },
+    {
+      "tree_id": 140,
+      "offset_bytes": 273280,
+      "node_count": 61
+    },
+    {
+      "tree_id": 141,
+      "offset_bytes": 275232,
+      "node_count": 61
+    }
+  ],
+  "node_count": 8662,
+  "baseline_prediction": 0.341248362872428,
+  "feature_names": [
+    "per_t_lag0",
+    "dist_m_lag0",
+    "v_src_mps_lag0",
+    "v_dst_mps_lag0",
+    "cbr_tx_lag0",
+    "cbr_rx_lag0",
+    "cbr_global_lag0",
+    "per_t_lag1",
+    "dist_m_lag1",
+    "v_src_mps_lag1",
+    "v_dst_mps_lag1",
+    "cbr_tx_lag1",
+    "cbr_rx_lag1",
+    "cbr_global_lag1",
+    "per_t_lag2",
+    "dist_m_lag2",
+    "v_src_mps_lag2",
+    "v_dst_mps_lag2",
+    "cbr_tx_lag2",
+    "cbr_rx_lag2",
+    "cbr_global_lag2",
+    "per_t_lag3",
+    "dist_m_lag3",
+    "v_src_mps_lag3",
+    "v_dst_mps_lag3",
+    "cbr_tx_lag3",
+    "cbr_rx_lag3",
+    "cbr_global_lag3",
+    "per_t_lag4",
+    "dist_m_lag4",
+    "v_src_mps_lag4",
+    "v_dst_mps_lag4",
+    "cbr_tx_lag4",
+    "cbr_rx_lag4",
+    "cbr_global_lag4",
+    "per_t_lag5",
+    "dist_m_lag5",
+    "v_src_mps_lag5",
+    "v_dst_mps_lag5",
+    "cbr_tx_lag5",
+    "cbr_rx_lag5",
+    "cbr_global_lag5",
+    "per_t_lag6",
+    "dist_m_lag6",
+    "v_src_mps_lag6",
+    "v_dst_mps_lag6",
+    "cbr_tx_lag6",
+    "cbr_rx_lag6",
+    "cbr_global_lag6",
+    "per_t_lag7",
+    "dist_m_lag7",
+    "v_src_mps_lag7",
+    "v_dst_mps_lag7",
+    "cbr_tx_lag7",
+    "cbr_rx_lag7",
+    "cbr_global_lag7",
+    "per_t_lag8",
+    "dist_m_lag8",
+    "v_src_mps_lag8",
+    "v_dst_mps_lag8",
+    "cbr_tx_lag8",
+    "cbr_rx_lag8",
+    "cbr_global_lag8",
+    "per_t_lag9",
+    "dist_m_lag9",
+    "v_src_mps_lag9",
+    "v_dst_mps_lag9",
+    "cbr_tx_lag9",
+    "cbr_rx_lag9",
+    "cbr_global_lag9"
+  ],
+  "input_dtype": "float64",
+  "node_record_bytes": 32,
+  "node_layout": "<dIIHBB12x",
+  "note": "Raw numeric thresholds; fitted leaf contributions; float64 arithmetic.",
+  "clip_output_to_unit_interval": false
+}

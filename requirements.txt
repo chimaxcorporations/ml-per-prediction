@@ -6,3 +6,6 @@ matplotlib
 pyyaml
 joblib
 pytest
+zstandard>=0.23,<1
+pyarrow>=18,<24
+torch

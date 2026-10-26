@@ -1,0 +1,13 @@
+{
+  "source_training": "configs/scenario_splits.json",
+  "validation_parquet": "/workspace/data/temporal_h10/juelich_core_d10_r2_log_distance_s01_w1.parquet",
+  "verification_rows": 128,
+  "hist_max_abs_error": 0.0,
+  "ridge_max_abs_error": 4.85722573273506e-16,
+  "verification_passed": true,
+  "hist_tree_bytes": 277184,
+  "ridge_fused_bytes": 568,
+  "hist_node_count": 8662,
+  "hist_tree_count": 142,
+  "caveat": "Storage counts exclude feature acquisition, buffering, clocking, and full hardware control. No synthesis performed."
+}

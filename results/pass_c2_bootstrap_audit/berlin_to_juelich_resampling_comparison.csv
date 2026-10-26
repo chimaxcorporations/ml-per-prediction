@@ -1,0 +1,5 @@
+experiment,resampling,clusters,comparison,delta,ci_low,ci_high
+berlin_to_juelich,scenario,27,hist_gb-cnn,-0.08644352637726735,-0.14302207244582216,-0.034730205526289075
+berlin_to_juelich,scenario,27,mlp-persistence,-0.008689679089673497,-0.032234728853541464,0.022918848023079127
+berlin_to_juelich,mobility_configuration,9,hist_gb-cnn,-0.08644352637726738,-0.0960957424921696,-0.08079996494343733
+berlin_to_juelich,mobility_configuration,9,mlp-persistence,-0.008689679089673497,-0.02188342526276016,0.0058890442481344405

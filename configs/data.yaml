@@ -1,0 +1,7 @@
+dataset:
+  name: "Cross-Layer Packet Error Rate Dataset for Vehicular Communications Generated with SUMO and ns-3"
+  doi: "10.5281/zenodo.22661719"
+  doi_status: "reserved"
+  source: "zenodo"
+  mount_path: "/datasets/vanet"
+  read_only: true

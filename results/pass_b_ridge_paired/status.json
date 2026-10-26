@@ -1,0 +1,14 @@
+{
+  "reproduction_passed": true,
+  "tolerance": 1e-08,
+  "seed": 42,
+  "bootstrap_reps": 10000,
+  "n_predictions": 201229,
+  "n_links": 25,
+  "delta_rmse_transfer_minus_within": -0.0038354532012031817,
+  "bootstrap_ci_95_percentile": [
+    -0.007346459542255436,
+    -0.0007749663255794774
+  ],
+  "message": "Conditional stratified directed-link bootstrap; no retraining or multiplicity correction."
+}

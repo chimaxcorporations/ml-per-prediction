@@ -1,0 +1,17 @@
+{
+  "direction": "both",
+  "models": [
+    "gru",
+    "lstm",
+    "tcn",
+    "transformer"
+  ],
+  "eval_batch_size": 50000,
+  "nn_batch_size": 8192,
+  "sample_fraction": 0.01,
+  "seed": 4242,
+  "rmse_tolerance": 1e-05,
+  "quantiles": "reproducible Bernoulli sampled, not exact full-population quantiles",
+  "bias_definition": "prediction minus ground truth",
+  "checkpoint_warning": "Only load locally generated trusted PyTorch checkpoints"
+}
