@@ -1,0 +1,47 @@
+{
+  "1": [
+    "juelich_core_d10_r2_log_distance_s01_w1.parquet",
+    "juelich_core_d30_r10_urban_s01_w1.parquet",
+    "juelich_core_d60_r5_log_distance_nakagami_s01_w1.parquet"
+  ],
+  "2": [
+    "juelich_core_d10_r5_log_distance_s01_w1.parquet",
+    "juelich_core_d30_r2_urban_s01_w1.parquet",
+    "juelich_core_d60_r10_log_distance_nakagami_s01_w1.parquet"
+  ],
+  "3": [
+    "juelich_core_d10_r10_log_distance_s01_w1.parquet",
+    "juelich_core_d30_r5_urban_s01_w1.parquet",
+    "juelich_core_d60_r2_log_distance_nakagami_s01_w1.parquet"
+  ],
+  "4": [
+    "juelich_core_d10_r2_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d30_r10_log_distance_s01_w1.parquet",
+    "juelich_core_d60_r5_urban_s01_w1.parquet"
+  ],
+  "5": [
+    "juelich_core_d10_r5_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d30_r2_log_distance_s01_w1.parquet",
+    "juelich_core_d60_r10_urban_s01_w1.parquet"
+  ],
+  "6": [
+    "juelich_core_d10_r10_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d30_r5_log_distance_s01_w1.parquet",
+    "juelich_core_d60_r2_urban_s01_w1.parquet"
+  ],
+  "7": [
+    "juelich_core_d10_r2_urban_s01_w1.parquet",
+    "juelich_core_d30_r10_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d60_r5_log_distance_s01_w1.parquet"
+  ],
+  "8": [
+    "juelich_core_d10_r5_urban_s01_w1.parquet",
+    "juelich_core_d30_r2_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d60_r10_log_distance_s01_w1.parquet"
+  ],
+  "9": [
+    "juelich_core_d10_r10_urban_s01_w1.parquet",
+    "juelich_core_d30_r5_log_distance_nakagami_s01_w1.parquet",
+    "juelich_core_d60_r2_log_distance_s01_w1.parquet"
+  ]
+}

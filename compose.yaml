@@ -1,11 +1,19 @@
+
 services:
   per-ml:
     build:
       context: .
       dockerfile: Dockerfile
 
+    user: "${HOST_UID:-1000}:${HOST_GID:-1000}"
+
+    environment:
+      MPLCONFIGDIR: /tmp/matplotlib
+      PYTHONUNBUFFERED: "1"
+
     volumes:
       - .:/workspace
+      - ${DATASET_PATH}:/datasets/vanet:ro
 
     working_dir: /workspace
 

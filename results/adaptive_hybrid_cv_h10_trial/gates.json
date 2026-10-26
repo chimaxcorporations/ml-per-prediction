@@ -1,0 +1,191 @@
+[
+  {
+    "fold": 1,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r5_log_distance_s01_w1.parquet",
+      "juelich_core_d30_r2_urban_s01_w1.parquet",
+      "juelich_core_d60_r10_log_distance_nakagami_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.1663362245604172,
+      "max_per_le_0": 0.16820531290947938,
+      "max_per_le_0.001": 0.16820531290947938,
+      "max_per_le_0.005": 0.16820531290947938,
+      "max_per_le_0.01": 0.16820531290947938,
+      "max_per_le_0.02": 0.16820531290947938,
+      "max_per_le_0.05": 0.16820531290947938,
+      "max_per_le_0.1": 0.16822090592550082,
+      "max_per_le_0.2": 0.16840578702586054
+    }
+  },
+  {
+    "fold": 2,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r10_log_distance_s01_w1.parquet",
+      "juelich_core_d30_r5_urban_s01_w1.parquet",
+      "juelich_core_d60_r2_log_distance_nakagami_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.2860335449270473,
+      "max_per_le_0": 0.2866757467451901,
+      "max_per_le_0.001": 0.2866757467451901,
+      "max_per_le_0.005": 0.2866757467451901,
+      "max_per_le_0.01": 0.2866757467451901,
+      "max_per_le_0.02": 0.2866757467451901,
+      "max_per_le_0.05": 0.2866757467451901,
+      "max_per_le_0.1": 0.2866741409995117,
+      "max_per_le_0.2": 0.2869323694515503
+    }
+  },
+  {
+    "fold": 3,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r2_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d30_r10_log_distance_s01_w1.parquet",
+      "juelich_core_d60_r5_urban_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.0983451210934174,
+      "max_per_le_0": 0.10137835293796589,
+      "max_per_le_0.001": 0.10137835293796589,
+      "max_per_le_0.005": 0.10137835293796589,
+      "max_per_le_0.01": 0.10137835293796589,
+      "max_per_le_0.02": 0.10137835293796589,
+      "max_per_le_0.05": 0.10137835293796589,
+      "max_per_le_0.1": 0.10145974107034972,
+      "max_per_le_0.2": 0.10293154907267794
+    }
+  },
+  {
+    "fold": 4,
+    "gate": "max_per_le_0.1",
+    "threshold": 0.1,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r5_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d30_r2_log_distance_s01_w1.parquet",
+      "juelich_core_d60_r10_urban_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.0977719048323398,
+      "max_per_le_0": 0.09791439026940064,
+      "max_per_le_0.001": 0.09791439026940064,
+      "max_per_le_0.005": 0.09791439026940064,
+      "max_per_le_0.01": 0.09791439026940064,
+      "max_per_le_0.02": 0.09791439026940064,
+      "max_per_le_0.05": 0.09791439026940064,
+      "max_per_le_0.1": 0.09764589400563625,
+      "max_per_le_0.2": 0.09771584155542982
+    }
+  },
+  {
+    "fold": 5,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r10_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d30_r5_log_distance_s01_w1.parquet",
+      "juelich_core_d60_r2_urban_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.07820318743715791,
+      "max_per_le_0": 0.08925890113359274,
+      "max_per_le_0.001": 0.08925890113359274,
+      "max_per_le_0.005": 0.08925890113359274,
+      "max_per_le_0.01": 0.08925890113359274,
+      "max_per_le_0.02": 0.08925890113359274,
+      "max_per_le_0.05": 0.08925890113359274,
+      "max_per_le_0.1": 0.08926071577085691,
+      "max_per_le_0.2": 0.08918185020962852
+    }
+  },
+  {
+    "fold": 6,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r2_urban_s01_w1.parquet",
+      "juelich_core_d30_r10_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d60_r5_log_distance_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.10487036472444214,
+      "max_per_le_0": 0.10512675861464266,
+      "max_per_le_0.001": 0.10512675861464266,
+      "max_per_le_0.005": 0.10512675861464266,
+      "max_per_le_0.01": 0.10512675861464266,
+      "max_per_le_0.02": 0.10512675861464266,
+      "max_per_le_0.05": 0.10512675861464266,
+      "max_per_le_0.1": 0.10513606453627466,
+      "max_per_le_0.2": 0.10543712034020254
+    }
+  },
+  {
+    "fold": 7,
+    "gate": "always_histgb",
+    "threshold": null,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r5_urban_s01_w1.parquet",
+      "juelich_core_d30_r2_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d60_r10_log_distance_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.18131380284411175,
+      "max_per_le_0": 0.18136672924455738,
+      "max_per_le_0.001": 0.18136672924455738,
+      "max_per_le_0.005": 0.18136672924455738,
+      "max_per_le_0.01": 0.18136672924455738,
+      "max_per_le_0.02": 0.18136672924455738,
+      "max_per_le_0.05": 0.18136672924455738,
+      "max_per_le_0.1": 0.18148433714163392,
+      "max_per_le_0.2": 0.18138348898027834
+    }
+  },
+  {
+    "fold": 8,
+    "gate": "max_per_le_0",
+    "threshold": 0.0,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r10_urban_s01_w1.parquet",
+      "juelich_core_d30_r5_log_distance_nakagami_s01_w1.parquet",
+      "juelich_core_d60_r2_log_distance_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.10470301476862014,
+      "max_per_le_0": 0.10412594390661041,
+      "max_per_le_0.001": 0.10412594390661041,
+      "max_per_le_0.005": 0.10412594390661041,
+      "max_per_le_0.01": 0.10412594390661041,
+      "max_per_le_0.02": 0.10412594390661041,
+      "max_per_le_0.05": 0.10412594390661041,
+      "max_per_le_0.1": 0.10417227961652228,
+      "max_per_le_0.2": 0.10470749963589106
+    }
+  },
+  {
+    "fold": 9,
+    "gate": "max_per_le_0",
+    "threshold": 0.0,
+    "inner_validation_scenarios": [
+      "juelich_core_d10_r2_log_distance_s01_w1.parquet",
+      "juelich_core_d30_r10_urban_s01_w1.parquet",
+      "juelich_core_d60_r5_log_distance_nakagami_s01_w1.parquet"
+    ],
+    "internal_rmse": {
+      "always_histgb": 0.19348745067066672,
+      "max_per_le_0": 0.19339116537850387,
+      "max_per_le_0.001": 0.19339116537850387,
+      "max_per_le_0.005": 0.19339116537850387,
+      "max_per_le_0.01": 0.19339116537850387,
+      "max_per_le_0.02": 0.19339116537850387,
+      "max_per_le_0.05": 0.19339116537850387,
+      "max_per_le_0.1": 0.19343749847658434,
+      "max_per_le_0.2": 0.19432397730170362
+    }
+  }
+]

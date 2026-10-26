@@ -1,0 +1,9 @@
+direction,model,parameters
+juelich_to_berlin,gru,3681
+juelich_to_berlin,lstm,4897
+juelich_to_berlin,tcn,1793
+juelich_to_berlin,transformer,9057
+berlin_to_juelich,gru,3681
+berlin_to_juelich,lstm,4897
+berlin_to_juelich,tcn,1793
+berlin_to_juelich,transformer,9057

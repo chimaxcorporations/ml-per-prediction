@@ -1,0 +1,132 @@
+{
+  "bootstrap_reps": 10000,
+  "base_seed": 20261018,
+  "ridge": {
+    "rows": [
+      {
+        "scenario": "S1",
+        "n_predictions": 108575,
+        "n_links": 12,
+        "within_rmse": 0.13691182275264477,
+        "transfer_rmse": 0.11806312143216222,
+        "delta_transfer_minus_within": -0.018848701320482553,
+        "ci_low": -0.0281386862257223,
+        "ci_high": -0.010633517523564706
+      },
+      {
+        "scenario": "S2",
+        "n_predictions": 92654,
+        "n_links": 13,
+        "within_rmse": 0.2330357018656966,
+        "transfer_rmse": 0.23842670954129946,
+        "delta_transfer_minus_within": 0.005391007675602855,
+        "ci_low": 0.004283559577561747,
+        "ci_high": 0.00637140477088942
+      },
+      {
+        "scenario": "pooled",
+        "n_predictions": 201229,
+        "n_links": 25,
+        "within_rmse": 0.18739925013541972,
+        "transfer_rmse": 0.18356379693421654,
+        "delta_transfer_minus_within": -0.0038354532012031817,
+        "ci_low": -0.007340550082415629,
+        "ci_high": -0.0008032743011699924
+      }
+    ],
+    "method": "scenario-stratified paired directed-link bootstrap; conditional on fitted models",
+    "seed": 20261060
+  },
+  "nine_group": {
+    "juelich_cv": {
+      "status": "verified",
+      "n_scenarios": 27,
+      "n_mobility_groups": 9,
+      "scenarios_per_group": 3,
+      "sse_conserved": true,
+      "comparisons": [
+        {
+          "experiment": "juelich_cv",
+          "resampling": "scenario",
+          "clusters": 27,
+          "comparison": "hist_gb-cnn",
+          "delta": -0.0006746672557905176,
+          "ci_low": -0.0026010485667615187,
+          "ci_high": 0.0007072795747424611
+        },
+        {
+          "experiment": "juelich_cv",
+          "resampling": "scenario",
+          "clusters": 27,
+          "comparison": "mlp-persistence",
+          "delta": -0.049200854645222114,
+          "ci_low": -0.070525610096208,
+          "ci_high": -0.025131609927497817
+        },
+        {
+          "experiment": "juelich_cv",
+          "resampling": "mobility_configuration",
+          "clusters": 9,
+          "comparison": "hist_gb-cnn",
+          "delta": -0.0006746672557905176,
+          "ci_low": -0.0013385117802213742,
+          "ci_high": -6.509788043937661e-05
+        },
+        {
+          "experiment": "juelich_cv",
+          "resampling": "mobility_configuration",
+          "clusters": 9,
+          "comparison": "mlp-persistence",
+          "delta": -0.049200854645222086,
+          "ci_low": -0.0640860503294749,
+          "ci_high": -0.03319099233893684
+        }
+      ]
+    },
+    "berlin_to_juelich": {
+      "status": "verified",
+      "n_scenarios": 27,
+      "n_mobility_groups": 9,
+      "scenarios_per_group": 3,
+      "sse_conserved": true,
+      "comparisons": [
+        {
+          "experiment": "berlin_to_juelich",
+          "resampling": "scenario",
+          "clusters": 27,
+          "comparison": "hist_gb-cnn",
+          "delta": -0.08644352637726735,
+          "ci_low": -0.14302207244582216,
+          "ci_high": -0.034730205526289075
+        },
+        {
+          "experiment": "berlin_to_juelich",
+          "resampling": "scenario",
+          "clusters": 27,
+          "comparison": "mlp-persistence",
+          "delta": -0.008689679089673497,
+          "ci_low": -0.032234728853541464,
+          "ci_high": 0.022918848023079127
+        },
+        {
+          "experiment": "berlin_to_juelich",
+          "resampling": "mobility_configuration",
+          "clusters": 9,
+          "comparison": "hist_gb-cnn",
+          "delta": -0.08644352637726738,
+          "ci_low": -0.0960957424921696,
+          "ci_high": -0.08079996494343733
+        },
+        {
+          "experiment": "berlin_to_juelich",
+          "resampling": "mobility_configuration",
+          "clusters": 9,
+          "comparison": "mlp-persistence",
+          "delta": -0.008689679089673497,
+          "ci_low": -0.02188342526276016,
+          "ci_high": 0.0058890442481344405
+        }
+      ]
+    }
+  }
+}

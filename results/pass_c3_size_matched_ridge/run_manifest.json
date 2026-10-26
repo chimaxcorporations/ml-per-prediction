@@ -1,0 +1,9 @@
+{
+  "training_samples": 100008,
+  "samples_per_scenario": 3704,
+  "n_scenarios": 27,
+  "seed": 42,
+  "bootstrap_seed": 20261018,
+  "bootstrap_replicates": 10000,
+  "notes": "Same 201229 Berlin target rows. Fixed-model conditional paired link bootstrap. Size-matched training count is approximate; domain diversity and sampling remain confounded. Berlin-trained models use opposite Berlin scenario for fitting."
+}
